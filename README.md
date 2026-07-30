@@ -1,2 +1,2 @@
 # CNN_Labs
-Description to building of a CNN Model.
+From Description to Building a CNN Model.
